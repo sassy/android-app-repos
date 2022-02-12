@@ -13,5 +13,6 @@ RecyclerViewの仕組み
 
 
 # 参照
-https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list
+- https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list
+- https://developer.android.com/codelabs/basic-android-kotlin-training-display-list-cards
 
